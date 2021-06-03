@@ -1,0 +1,810 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Certaine inducements to well minded people, who are heere straitned in their estates or otherwise or such as are willing out of noble and pub[l]ique principles, to tran[s]port themselves, or servants, or agents for them into the West-Indies, for the propagating the Gospell, and increase of trade.</title>
+         </titleStmt>
+         <extent>Approx. 37KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18848</idno><idno type="EEBO-CITATION">18846437</idno>
+  <idno type="VID">205402</idno>
+  <idno type="EEBO-PROQUEST">2248561152</idno>
+  
+            <idno type="STC">Wing C1701</idno>
+            <idno type="OCLC">18846437</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18848)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205402)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1664:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Certaine inducements to well minded people, who are heere straitned in their estates or otherwise or such as are willing out of noble and pub[l]ique principles, to tran[s]port themselves, or servants, or agents for them into the West-Indies, for the propagating the Gospell, and increase of trade.</title>
+               </titleStmt>
+               <extent>24 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1643?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Errors in paging: p. 14, 17 misprinted 41, 71, respectively.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">West Indies, British.</term>
+               <term type="geographic_name">West Indies --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Alexis (Ali) Jakobson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Alexis (Ali) Jakobson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="inducements">
+            <pb n="1" facs="tcp:205402:1"/>
+            <head>CERTAINE INDUCEMENTS To well minded PEOPLE, Who are heere straitned in their Estates or otherwise: or such as are willing out of Noble and Publique Prin<g ref="char:EOLhyphen"/>ciples, to tran port themselves, or servants, or Agents for them into the <hi>West-Indies,</hi> for the propagating the Gospell, and in<g ref="char:EOLhyphen"/>crease of Trade.</head>
+            <p>THere seemes to be a great Gate opened to the Gospells entrance upon the <hi>Indians,</hi> a great part of them being already reduced to Civil <label type="milestone">
+                  <seg type="milestoneunit">Inducement </seg>1</label> Government, and co-habitation, to live it callings to speake <hi>Spanish</hi> (which is a Language very easy to be learned) and some to writing and reading; yea, the wil<g ref="char:EOLhyphen"/>de<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>Indians</hi> upon the Southerne Main, have beene found to be very open to conviction in their Religion, and o<g ref="char:EOLhyphen"/>thers (yea, even hundreds) have earnestly desired to live somwhere vnder the <hi>English</hi> Government, paying Tri<g ref="char:EOLhyphen"/>bute, and would desirously learne their Re<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>igion: as be<g ref="char:EOLhyphen"/>ing resolved the <hi>Spaniards</hi> Religion cannot be good, the Professours thereof are of so evill conversation, they generally <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ove the <hi>Engl sh,</hi> and some are proud to have
+<pb n="2" facs="tcp:205402:2"/> the <hi>English</hi> names put upon them; they have some remai<g ref="char:EOLhyphen"/>ning knowledge of the creation of man, and of a great Flood; they abhorre Lyars and Adulterers.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Inducement </seg>2</label> Easie accommodation for Houses, for in some parts there are some ready built; and where there be none, a great number may be in few days fitted for their present abode; for there is no such rigour of weather to force such exact providing of Houses; but the matter of Forti<g ref="char:EOLhyphen"/>fication, Food, and Commodity may precede better and more beutifull buildings: there are Leaves of a fath<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me broad and as much in lenght, which will suffice to close the walls and Roofes, and these will last many yeares: but when it is resonable to build fairer houses, there is good Timber for them, as Pine, Cedar, Oake (some bearing Acornes), Locusts, Ash, Mangroves, Manche<g ref="char:EOLhyphen"/>n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e; and the worke of bui<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ding may in all reason be farre cheaper there, where the workman is not burdened with Rents and provision as in <hi>England.</hi>
+            </p>
+            <p>There may be a speedy and aboundant supply of food: speed of supply appeareth by the times and kinds <label type="milestone">
+                  <seg type="milestoneunit">Inducement </seg>3</label> of supply. <hi>English</hi> graine will grow well, and yeild a pure Flower; <hi>Indian</hi> Corne yeilds a crop in three moneths; Pea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e in two, Potatoes in five, Pompions in three, Cassavia in six, Plantanes in ten, and Angoala Pease in five moneths (these grow on a tree, and for three yeares or more have little intermission of bearing) Plantanes continue to beare well four yeares without any int<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rmission; there are other rootes good, as Illiamus and Dishway, which will keepe in the house most part of the yeare in stores: these things for fruits. The <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>and hath likewise Hogs, Deere, Rabbets, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uianaes, Armadilla<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, Westcotoones: Turtle, Tilboa, and where the <hi>Spaniard</hi> hath beene, or is, there are Goates
+<pb n="3" facs="tcp:205402:2"/> Sheepe, also Horses, Assenecoes for service, and Cowes for food, and that very good and plentifull. In the Ri<g ref="char:EOLhyphen"/>vers of water, and on the Sea coasts there are store of va<g ref="char:EOLhyphen"/>rious and choyse Fishes very good for food, and delicate, as Pike, Breame, Hogsish, Rockfish, Snappers, Gropers, Porgies, Megsish, Pariotfish, Grunts, Angellfish, Blew coates, Velvetcoates, Morrage, Cunnyfish, Lobsters, Stingrais, Horseis, Gevallees, Pilchers, Ambrefish, and Oysters; also Turtle of divors sorts, Manatee and divers other sorts. In the Aire is great diversity of Fowles, Ducks of severall sorts, Wildgeese, Pidgeon, Parret, Mackow, Turtle doves, Goaling, Curlews, Passo, Fle<g ref="char:EOLhyphen"/>mingo, Herne, Peacocke, Cossooes, Cohooes, Tur<g ref="char:EOLhyphen"/>keyes, cockes and hennes, Black birdes, and divers other sorts both small and great very plentifull. The aboun<g ref="char:EOLhyphen"/>dance of supply, appeareth not only in what hath been said, but farther in proportion of encrease; one graine of <hi>Indian</hi> Corne yeelds a stalke, and each stalke yeelds two faire Eares (besides smaller) each Eare containing about six hundred graines, some eight hundred; so that you see the fruitfull Land yeelds above a thousand fold: four<g ref="char:EOLhyphen"/>teene hundred Eares, yea sometimes a thousand fills a hog<g ref="char:EOLhyphen"/>shead with graine, and that is eight bushells: so that six<g ref="char:EOLhyphen"/>ty four bushells, are commonly produced by one A<g ref="char:EOLhyphen"/>cre at one crop, and on the same ground you may have three crops of Corne in the same yeare, if not four, and this Corne makes farre better Bread then what hath beene usually of that in <hi>New-En<g ref="char:EOLhyphen"/>gland</hi> and <hi>Ʋirginia;</hi> and indeed it may be made as good as our bread heer in <hi>England,</hi> and will make very good Beere, and so will honey likewise of which there is great store: Pease planted in an A<g ref="char:EOLhyphen"/>cre which three quarts will doe, arise in one crop to three
+<pb n="4" facs="tcp:205402:3"/> hogsheads, somtimes to five, though they do not grow at all times of the yeere alike; yet there may be three crops of pease in one yeere; there are divers sorts of pease, and o divers colours, as red, white, black, and gray, some of them as good, or rather better then the best in <hi>England.</hi> potatoes yield an exceeding encrease, and are very delicious for mens eating, being farre<g ref="char:EOLhyphen"/>more pleasing to the pallate, and wholsome to the stomack there, where they eat them fresh out of the ground, then they are here, when they are brought over; and the reason is, because they are commonly two or three moneths old before they bee eaten; and if there they are kept but six dayes after they are out of the ground, they are esteemed fit only for the Hogges: Potatoes are also extraordinary usefull for divers sorts of Cattell in the rootes, or slipes, upon which, and the generall food of the Cuntrey usually given to Hogs, doth yeeld the tast of the Porke much more sweet and pleas ng then ours in <hi>England,</hi> and indeed is as palatsome and nourishing as Mutton hear. Plantanes in foure acres will in its kind, serve a Family of twenty persons, both for meat and drinke; which drinke is pleasant, quick, nourish<g ref="char:EOLhyphen"/>ing, strong, and likesome Wines; Plantanes are a very excellent frvte whereof use moy bee made in sixteene or eighteene severall dishes of different taste, yet every one pleasant to the pallate, wholsome to the stomack, hearty and very nourishing to the body; they do make good bread puddings, ta<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ts: and yeeld a fine flower for pancakes. Cassavia is the root of a Tree which is a very good and hearty food, rosted in the sire stewed, baked, or boyled, it yeelds likewise a very pure flower, which makes bread to victuoll Ships, that will keepe for Shippes store some yeares, and continue very good.</p>
+            <pb n="5" facs="tcp:205402:3"/>
+            <p>G<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yanaes, Armadillaes, and Westcotoones are of seve<g ref="char:EOLhyphen"/>ra<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l shapes, but in their eating somwhat tast like, but m ch better then a Rabbet. There are also <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>everall other sorts of Creatures good for food (not <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pecified) of s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch like kinds. The Turtle of the Land is a Bea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t; ve<g ref="char:EOLhyphen"/>ry good, wholesome, and pleasant flesh for meat; of which there is rea onable store. Tilboa is a Creature, the flesh whereof eateth like Biefe, and is almost as big as an Oxe; these about the Sea coast are somwhat rare but up in the Country by <hi>Indian</hi> and some <hi>English</hi> relati<g ref="char:EOLhyphen"/>ons, much more plentifull. As for Fish, it would be<g ref="char:EOLhyphen"/>too tedious to relate the nature and quality of every par<g ref="char:EOLhyphen"/>ticular sort; we shall only make a true relation of some of the cheife<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t. The Hog-fish is much better then our Salmon, and is in tast exceeding pleasant, it is a lbroad red fish, and about the bignesse of an ordinary Sa mon; from which fish being rosted, a pint of pure fatt hath dropped, which fatte is good for diverse uses to dresse victualls. Rockfish is of severall sizes, ordinarily as big as a Codfish, and some are much bigger, and is bet<g ref="char:EOLhyphen"/>ter then a Codfish. Snappers are about the bignesse of a Salmon, and are as good as the Hogfish. Gropers are about the size of a Codfish, and as good and rather better. Porgies are in goodnesse neere to that of the Hogfish but not above halfe so big. Me<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fish is as big as the Porgie, and not much inferiour to it in good<g ref="char:EOLhyphen"/>nesse. Of the Sea Turtle fish, very much may be spoken, in poynt of its goodnes; it is a Creature living in the Sea, &amp; feeding upon the grasse growing in the bottome of the Sea, whereof there is plenty, the flesh of this creature is very good, and eates much like Veale; this meat out of a hid<g ref="char:EOLhyphen"/>den quality, is very medicinall for the cure of the Diesases of the Dropsy and Fluxes, into which some falls though
+<pb n="6" facs="tcp:205402:4"/> sildome; and gently purgeth their bodies througly, and worketh a perfect cure; the flesh thereof may very well be eaten without bread, and is marvelous nourishing, and very desirable, it yeelds good store of Oyle, which is so inoffensive, that halfe a pint may be drunke at a draught; it is in colour yellow, and in goodnesse to be used as butter, being but little or not at all inferiour to it: it is also very soveraigne being composed with other things into a salve, for any greene wounds, or old sores as by experience hath appeared: some of these Fishes in spawning time, will lay two or three hundred egges, which egges are about the bignesse of a Hens egge, and are good to be eaten; this Fish is very plentifull, so that some have taken forty at a fishing, and sometime more, and of such large sizes, that some one of them will serve fifty men at a meale; the flesh heerof is ordinarily powdred up in hogsheads for Ships provision; many other are the rare qualities of this Fish (if it may be called a Fish, for it is ineed rather Flesh) &amp; of these Turtles there are severall sorts; as greene Turtle, haukes-bill Turtle (of which is the shell for Combs) Logger haads, Trunke Turtle, La<g ref="char:EOLhyphen"/>dy Turtle, some better, some worse, but all good for food and the best is most plentifull. Manatee is likewise a crea<g ref="char:EOLhyphen"/>ture living in the Sea, &amp; might well be termed a Sea Cow, for the tast thereof is like Biefe, &amp; is very good, &amp; taketh salt likewise; this Creature hath a stone which is a very soveraign remedy for the stone in the bladder, &amp; very help<g ref="char:EOLhyphen"/>full to women in travell, as hath often been proved; as al<g ref="char:EOLhyphen"/>so against the Cramp, for which particulars there are like<g ref="char:EOLunhyphen"/>wise many other things, as Sharkes stones, Crabs stones, and many other medicines from severall sensibles and ve<g ref="char:EOLhyphen"/>gitables, for the diseases there, and also for the diseases <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aigning in other parts, of which good use may be made.</p>
+            <pb n="7" facs="tcp:205402:4"/>
+            <p>Sufficient provision for clothing; in two or three yerres; <label type="milestone">
+                  <seg type="milestoneunit">Inducement </seg>4</label> for Cotton-seed being planted, yeelds in four or five moneths, and of this divers Kindes of linnen cloathing, both inward and outward, may be made, as also stock<g ref="char:EOLhyphen"/>ins and gloves. Besides, there is a silke-grasse, which growes naturally, and may be cut once a year; this by the Indians is easily fitted to ma<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e cordage, and to be spun in to a fine thread, very good to make s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uffes, which que<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tionlesse would be very fine and rich i<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> being in its nature and colour much like raw salke. The bodies of Plantane trees, and leaves of Pine-apple-trees, doe also yeeld a fine thread. Sheep Prosper well there, and silke<g ref="char:EOLhyphen"/>wormes are likely to doe so? yet weare it better to have occasion to fetch silke from the neighbouring <hi>East-India,</hi> as the <hi>Spaniards</hi> vse to doe. Hides are easily in three or foure moneths tanned, to make Leather for shooes and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oots there is matter likwise to make hats</p>
+            <p>Of commodities there are in being, Indico; Co<g ref="char:EOLhyphen"/>cheneale, <label type="milestone">
+                  <seg type="milestoneunit">Inducement </seg>5</label> Annottoe, Balsame, Sugar-canes, Ginger, Silke-grasse, Silke-cotton, and other Cotton, Sarsaperil<g ref="char:EOLhyphen"/>la, and other drugges: Bees waxe, Dete (which is an ex<g ref="char:EOLhyphen"/>cellent perfume, growing naturally, and there is some Probability it would bee much better being transplanted divers sortes of Dying woods, also Tarre, Pitch, Tallow Hides, besides Mines of Silver and Gold, there is also Copper &amp; Iorn it is supposed likewise that many of the <hi>East-Ind<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a</hi> Commodites will grow thore, and so would Vines for Wines and Olives fer Oyle in that soyle and cli<g ref="char:EOLhyphen"/>me, as the like exPerience shewes, and the prohibition of the King of <hi>Spaine</hi> witnesseth: Also there are Pearls, &amp; some Spices; yea there is a barke of a Tree, which is white, that seemeth a compound of all Spices</p>
+            <pb n="8" facs="tcp:205402:5"/>
+            <p>The comfort of Fruit, which are so refined by the Sunne and wholesome, that they infect not the body <label type="milestone">
+                  <seg type="milestoneunit">Inducement </seg>6</label> though eaten in aboundance. There is most delightfull garden ng, and mo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e easy then in cold places. The <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orts of fruits be<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>des Plantaines, are Pine-apples (which is a fruit for delicacy, delicious, sweet and pleasing tast, to be admired, and the scent thereof very odoriferous and pleasing to the sence; it is accounted one of the primest fruites in the wh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>le world) Orranges, Lemmons, Limes, Pome-cit<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ons, Figges, Pome-granates, Coco-Nuts, Sup<g ref="char:EOLhyphen"/>porters, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uava's, yellow Plums, Mameele; Cu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ard-fruit, Wat<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r-Mi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ions (a fruit as b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e as a Pompion here, which ye I les ab u<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> qu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rt, some a pottle of very plea<g ref="char:EOLhyphen"/>sant liquor, <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d v<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ry g od against the Stone Chollick and Stone in the Fl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dd <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>,) Mus<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>-mil<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ions, a kind of Che ries with three ston <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, Prickle-p ares, and Pingui<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es, all th se very good, the t ees <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ls<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wais green and pleasant to behold.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Inducement </seg>7</label> The m de ation of necessary ch<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rge, and paines of Rai es and Pa es is avoyded; for Lime-trees fence bet<g ref="char:EOLhyphen"/>ter then any quick-<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>et in <hi>England,</hi> any easy hand of wo<g ref="char:EOLhyphen"/>man or lad can plant them, and they grow up and beare in two yeares. Three men wil cut downe the woods, and sit an A<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re of ground in eight daies to be planted, afterward the g<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ound being kept cleane, is alwaies upon a shower of r ine ready to be pl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nted, and one man may plant an Acre of Corne in a day: so also Plantaines and Pease; and in two daies a m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n may plant an acre of Potatoes: Corne and Potatoes need weeding once a fort<g ref="char:EOLhyphen"/>night, and an Acre may be weeded by one man in two houres. Plantaines after once planting, n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed little paines in husbandry, only sometimes supe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>aboundant suckers taken away. The Land needes
+<pb n="9" facs="tcp:205402:5"/> noe dung, nor any fallow years; The <hi>Indian</hi> corn needs no plowing nor harrowing: the labour for provid<g ref="char:EOLhyphen"/>ing hay and other <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>odder for winter is needlesse, the grasse being alwayes greene, so that i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is easie to keepe great droves of Cattell: One man by labour can provide for twenty men; The <hi>I dians</hi> are also apt to labour; and will be helpfull in making cordage, also in building and Smiths worke, so likewi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e in Fishing by these particulars, and the former, it may be perciued how a godly people may be inabled in the West Indies to be more liberall to God in publike and domesticke duties which leisure see<g ref="char:EOLhyphen"/>mes to be contrived by providence in these benigne partes to bring in the<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Gentiles, to which every pious family will conduce somthing: also a people of large hearts may be there more free to each other, in acts of Hospitality, curtesie relife, and commerce, neither shall they be nec<g ref="char:EOLhyphen"/>e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sitated by covetousnesse, or rigid dealing, to occasion Reproach, under which some are here, to the grife of others and themselves: Also pretious soules setled in these prte shall be exemted from the d ugery, which they are put to in England, and other places; so that as their names may be freed from reproach, their bodies may be freed from moyling, so their hearts from a great deal of care; yea, though they have many Servants and Chil<g ref="char:EOLhyphen"/>dren to keePe, they are not burdensome, but helpfu l; neither doe heat or cold procure any impeachment to the labour or bopy, or study of minde</p>
+            <p>The healthfullnesse of the Climate: There is no <label type="milestone">
+                  <seg type="milestoneunit">Inducement </seg>8</label> Itch, Scab, Di tillation by the n<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>se nor Cough nor Li<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, upon the body, nor small Poxe, Mea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>els, Con<g ref="char:EOLhyphen"/>sumption, Gout, Pal<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e, or any plethoriqu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> diseases
+<pb n="10" facs="tcp:205402:6"/> are seldome or never found there</p>
+            <p>And farther, all the relations in this booke have <label type="milestone">
+                  <seg type="milestoneunit">Inducement </seg>9</label> biene made and are, Confirmed by seuerall well knowne men of trust and quality. (to very many in this Citty) who have lived there many years some Six some Eight some Twelve years some more some lesse. which said Inhabitants have not only made this report, but doe Evidence the truth by their personall returning with the last f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eet in the yeare 1644 Iudging of it the most com<g ref="char:EOLhyphen"/>fortable Place that ever they lived in notwithstanding some of them have been Travellers in other Countries with great Observation,</p>
+            <p>The truth of what is said, Concerning the goodnes of this country is further manifest (both by marchants from severall Parts of this Kingdome, and Holland, who have a constant Trade with the English there Plan<g ref="char:EOLhyphen"/>te<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, both yearly and severall times in the year, by which th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y have gayned great Estats. And those ma<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ters &amp; Servants w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ich have though meanly been transported thither have much enriched themseves by their plantations.</p>
+            <p>And also divers of new England who have transplant<g ref="char:EOLhyphen"/>ed themselues into these parts, and thus reported to their friends living in London which formerly lived by them in new England, That if god had planted them in the west Indies when they w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt first to new England they had b<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n one of the flourishing Commonwealths in the world, by all which it doth apeere that th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>se Parts a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e most de<g ref="char:EOLhyphen"/>sirable for habitation and comfort b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> subsistance bes<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>des the Earnest des <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e that all good Chri<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ians Ought to have in fulf<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lling the will and Command, of their Lord and master Christ <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>us, in the propagation of the Gos<g ref="char:EOLhyphen"/>pell, to poore Indians who are in da<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> nes, and o <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uch the mo e in regard these poore people desire the English to Inhabit with them,</p>
+            <pb n="11" facs="tcp:205402:6"/>
+            <p>The division or allotment of Lands in the first yeare is <label type="milestone">
+                  <seg type="milestoneunit">Inducement </seg>10</label> to be as followeth, to be all Freehold land to all the per<g ref="char:EOLhyphen"/>sons heerafter mentioned, and their heires and assignes for euer heerafter,</p>
+            <p n="1">1. All that shall land at first, and within the first twelve monthes after the first arivall, are to have six acres for eve<g ref="char:EOLhyphen"/>ry head or person within four miles of the Townes cir<g ref="char:EOLhyphen"/>cumference, and sixty acres an head in some other place: and Servants are to have the like quantity when they come out of their times.</p>
+            <p n="2">2 All that shall land between the first twelve moneths and the end of the next six moneths, are to have four acres an head within four miles of the Townes circumference, and 30 acres an head in some other place, and servants are to have the like quantityes when they come out of their times. Moreover, unto every Master or Family there shall be allotted a ce<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>aine portion of ground in the Towne for building of houses and for gardens, &amp;c, &amp; also to every servant when they come out of their times.</p>
+            <p n="3">3 For encouragement to well affected persons to con<g ref="char:EOLhyphen"/>tribute moneyes for a publique stocke; it is agreed, that he that puts into the said publique stocke one hundred pounds, shall have for it five hundred Acres of Land, and his money paid him backe againe in con<g ref="char:EOLhyphen"/>venient time out of the publique profit and revenue, and so Proportionable for every summe under or above one hundred Poundes: and that every man not going in person shall notwithstanding if he adventer any summe of money, have the like priviledges: and likewise every man not going in peoson, but sending servants, shall have the like priviledge for the said servants as if he went in person, and his servants at the expiration of the time of their ser<g ref="char:EOLhyphen"/>vice, demand and Reeive as theire due the proportion of land above specified.</p>
+         </div>
+         <div type="objections">
+            <pb n="12" facs="tcp:205402:7"/>
+            <head>OBJECTIONS <hi>ANSWERED.</hi> Made by some who know not those parts</head>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>1</label>
+               <hi>SOme will say, they thinke the heat of the Country i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> intollerable, it being alwais Summer.</hi>
+            </p>
+            <p>This is fully answered by Experience. There are some hundreds here in <hi>London,</hi> who besides the many thousands of our Country men there (that have had o<g ref="char:EOLhyphen"/>portunity of returning hither againe had they desired it) beare witnesse to the contrary; <label type="milestone">
+                  <seg type="milestoneunit">Answ. </seg>
+               </label> the one resolving to end their daies there; the other that are heer, generally desiring nothing more, then to returne to those parts againe, as the only sweet Climate, affording all comfor<g ref="char:EOLhyphen"/>table meanes of livelyhood, beyond any other Latitude knowne to them in the wholl world: besides, the tem<g ref="char:EOLhyphen"/>peratenesse of the Climate is cleared, not only by experi<g ref="char:EOLhyphen"/>ence as aforesaid, but by Reason it selfe, for the coole aire rising and increasing with the rising and strenght of the Sunne, which cooles and qualifies the otherwise extraordinary heat.</p>
+            <pb n="13" facs="tcp:205402:7"/>
+            <p>Againe, the nights are long, the Sunne setting twelve houres, and the Sunne being directly under the Earth, the aire and Earth is much cooled thereby.</p>
+            <p>And lastly, the grasse being alwaies greene, plainly demonstrates that there is no such parching heat as is conceived, and wee know to be in other Countreys.</p>
+            <p>
+               <hi>Some will say the heat and plenty in those parte are e<g ref="char:EOLhyphen"/>nemies <label type="milestone">
+                     <seg type="milestoneunit">Object. </seg>2</label> to Procreation.</hi>
+            </p>
+            <p>The <hi>Spaniards</hi> who may be reckoned among the most luxurious livers in the world, doe confute this opi<g ref="char:EOLhyphen"/>nion; <label type="milestone">
+                  <seg type="milestoneunit">Answ </seg>
+               </label> for they have not only plenty of children begotten in Wedlocke, but also numerous multitudes of a mixt ge<g ref="char:EOLhyphen"/>nerttion, which they beget on <hi>Negroes</hi> and <hi>Indian</hi> woh men; the first called <hi>Molattoes,</hi> the other <hi>Mesieeces,</hi> of both which there are multitudes: and many <hi>English</hi> wo<g ref="char:EOLhyphen"/>men have two children at one birth</p>
+            <p>All which considered and laid in the ballance with the present sad and suffering (and not easily reparable) condition of many thowsands here, who either by the plundering and utter ruine of their Estates by the cruelty of the Cavaleers, or through the decay of trading, made now so unable to afford that helpe to the state, in relie<g ref="char:EOLhyphen"/>ving and supplying others, that they are not able to sub<g ref="char:EOLhyphen"/>sist themselves; and must suddenly (without little lesse then a miracle) prove very great burthens to others, as already they are to themselves, and whenas so comfor<g ref="char:EOLhyphen"/>table, yea plentifull conditions of living and providing for their Families, invite them to these more propitions and abounding parts of the World it seemes not only folly in multitudes of men, that thinke there is noe living
+<pb n="41" facs="tcp:205402:8"/> out of the smoke of their owne chimneys (that hardly afford any) but cruelty to themselves and theirs, to welter and languish in a sordid condition here at home, that might so plentifully provide for them selves and theirs; but ill affection to the state, which they may serve there and must over-burthen heer.</p>
+            <p>And lastly it is most of all ingratitude to the rich bounty and goodnesse of the Creator, that they are so farre from making use thereof, that they abhorre the thoughts of going to see his wonders in the Deep, and the deep treasures of his wonderfull riches in those Para<g ref="char:EOLhyphen"/>dises of the Earth, reserved (as it seemes) as a speciall part of the recompence of the straitnesse of his owne peo<g ref="char:EOLhyphen"/>ple in those more glorious then is yet credited in other parts of the World.</p>
+            <p>Acornes were and are thought good food, where bread is not knowne, but there is not that disproportion betweene Bread and Acornes, that indeed there is be<g ref="char:EOLhyphen"/>tweene those t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d these parts, the inclemency and bar<g ref="char:EOLhyphen"/>rennesse of these parts, put in comparison with the fertility and nature-cherishing sweetnes; affoording scarce any degree of Comparison.</p>
+            <p>Besides if some good though poore people were intermixed with the many thowsands of our owne Countrey-men already planted in the <hi>West India,</hi> they might impart spirituall riches and treasures unto them; in participation of there temporalls, and be both mad
+<pb n="15" facs="tcp:205402:8"/> not only happy thereby them selves, but communicate much of the riches of those plentifull parts to the<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e (that are made indigent and wanting of them) both for their comfortable refresh<g ref="char:EOLhyphen"/>ment here, &amp; maintai<g ref="char:EOLhyphen"/>ning a great trade with other Nations.</p>
+         </div>
+         <div type="list_of_provisions">
+            <pb facs="tcp:205402:9"/>
+            <pb n="71" facs="tcp:205402:9"/>
+            <head>A PARTICULAR OF SUCH NECESSARY PROVISIONS AS EVERY Adventurer is to carry, according to the number of his servants: Together with an esti<g ref="char:EOLhyphen"/>mate of their Prices.</head>
+            <div type="part">
+               <head>
+                  <hi>In VICTUALS</hi> For one man for six Moneths.</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell>TWo bushells of Meale</cell>
+                        <cell>0. 10. 00</cell>
+                     </row>
+                     <row>
+                        <cell>One bushell of Oat-meale</cell>
+                        <cell>0. 04. 04</cell>
+                     </row>
+                     <row>
+                        <cell>Halfe a bushell of Pease</cell>
+                        <cell>0. 01. 08</cell>
+                     </row>
+                     <row>
+                        <cell>Two quarts of Oyle</cell>
+                        <cell>0. 02. 00</cell>
+                     </row>
+                     <row>
+                        <cell>One quart of Viniger</cell>
+                        <cell>0. 00. 06</cell>
+                     </row>
+                     <row>
+                        <cell>Two quarts of <hi>A ma vitae</hi>
+                        </cell>
+                        <cell>0. 01. 06</cell>
+                     </row>
+                     <row>
+                        <cell>Halfe a pecke of Bay-salt</cell>
+                        <cell>0. 00. 04</cell>
+                     </row>
+                     <row>
+                        <cell>20. pounds of Suffolk or Holland cheese</cell>
+                        <cell>0. 04. 02</cell>
+                     </row>
+                     <row>
+                        <cell>In Nutmeg, Pepper and other Spices</cell>
+                        <cell>0. 01. 06</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell role="total">1. 0<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>. 00</cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>In APPARELL and PEDDING</hi> for one man for <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wel<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Mon<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>hs.</head>
+               <pb n="18" facs="tcp:205402:10"/>
+               <p>
+                  <table>
+                     <row>
+                        <cell>One Monmouth Cap or Hat</cell>
+                        <cell>0. 02. 00</cell>
+                     </row>
+                     <row>
+                        <cell>Three weeke-cloaths or bands</cell>
+                        <cell>0. 01. 03</cell>
+                     </row>
+                     <row>
+                        <cell>Three Shirts</cell>
+                        <cell>0. 07. 09</cell>
+                     </row>
+                     <row>
+                        <cell>Two Suits of Canvas</cell>
+                        <cell>0. 11. 00</cell>
+                     </row>
+                     <row>
+                        <cell>One Suit of Demity or Fustian</cell>
+                        <cell>0. 11. 00</cell>
+                     </row>
+                     <row>
+                        <cell>Three paire of Linnen Stockings</cell>
+                        <cell>0. 03. 00</cell>
+                     </row>
+                     <row>
+                        <cell>Three paire of shooes</cell>
+                        <cell>0. 07. 06</cell>
+                     </row>
+                     <row>
+                        <cell>Inkle for Garters</cell>
+                        <cell>0. 0<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>. 02</cell>
+                     </row>
+                     <row>
+                        <cell>One douzen of threed Points</cell>
+                        <cell>0. 00. 03</cell>
+                     </row>
+                     <row>
+                        <cell>One Hamack to lye on</cell>
+                        <cell>0. 06. 00</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell role="total">2. 09. 00</cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>In ARMES</hi> for one man.</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell> </cell>
+                        <cell role="label">l. S. D.</cell>
+                     </row>
+                     <row>
+                        <cell>One Musket</cell>
+                        <cell>0. 16. 00</cell>
+                     </row>
+                     <row>
+                        <cell>Six pounds of Gun-powder</cell>
+                        <cell>0. 06. 00</cell>
+                     </row>
+                     <row>
+                        <cell>Eighteene pounds of lead bullets</cell>
+                        <cell>0. 03. 00</cell>
+                     </row>
+                     <row>
+                        <cell>One sword</cell>
+                        <cell>0. 06. 00</cell>
+                     </row>
+                     <row>
+                        <cell>One belt</cell>
+                        <cell>0. 01. 00</cell>
+                     </row>
+                     <row>
+                        <cell>A cartridge of Tinne, covered with Leather to hold ten or twelve patrones</cell>
+                        <cell>0. 01. 06</cell>
+                     </row>
+                     <row>
+                        <cell>In Match</cell>
+                        <cell>0. 02. 00</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell role="total">1. 15. 06</cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>In HOUSHOLD IMPLEMENTS</hi> for five men, and so after the rate f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r more.</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell>One Iron pot</cell>
+                        <cell>0. 06. 00</cell>
+                     </row>
+                     <row>
+                        <cell>One Iron Kettle</cell>
+                        <cell>0. 06. 00</cell>
+                     </row>
+                     <row>
+                        <cell>One large Frying-pan</cell>
+                        <cell>00. 02. 06</cell>
+                     </row>
+                     <row>
+                        <cell>One Gridiron</cell>
+                        <cell>0. 01. 00</cell>
+                     </row>
+                     <row>
+                        <cell>One Skille<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </cell>
+                        <cell>0. 02. 06</cell>
+                     </row>
+                     <row>
+                        <cell>One paire of Bellowes</cell>
+                        <cell>0. 01. 00</cell>
+                     </row>
+                     <pb n="19" facs="tcp:205402:10"/>
+                     <row>
+                        <cell>Platters, D<gap reason="illegible" resp="#keyers" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap>s and Spoones, of wood</cell>
+                        <cell>0. 04. 00</cell>
+                     </row>
+                     <row>
+                        <cell>One spit</cell>
+                        <cell>0. 02. 00</cell>
+                     </row>
+                     <row>
+                        <cell>One grinding-stone</cell>
+                        <cell>0. 04. 00</cell>
+                     </row>
+                     <row>
+                        <cell>In Nailes of all sorts</cell>
+                        <cell>1. 00. 00</cell>
+                     </row>
+                     <row>
+                        <cell>One Iron pestell of four foot long to bea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> corne</cell>
+                        <cell>0. 02. 06</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>2. 12. 00</cell>
+                     </row>
+                     <row>
+                        <cell>Whereof one fift part for one man is</cell>
+                        <cell>0. 10. 05</cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>In TOOLES</hi> for five men, and so after the rate for more or lesse.</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell> </cell>
+                        <cell role="label">L. S. D.</cell>
+                     </row>
+                     <row>
+                        <cell>Five broad Hoas</cell>
+                        <cell>0. 10. 00</cell>
+                     </row>
+                     <row>
+                        <cell>Two narrow Hoas</cell>
+                        <cell>0. 03. 04</cell>
+                     </row>
+                     <row>
+                        <cell>One broad Axe</cell>
+                        <cell>
+                           <gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> 03. 08</cell>
+                     </row>
+                     <row>
+                        <cell>Five felling Axes</cell>
+                        <cell>0. 07. 06</cell>
+                     </row>
+                     <row>
+                        <cell>Two steell Hand-fawes</cell>
+                        <cell>0. 04. 08</cell>
+                     </row>
+                     <row>
+                        <cell>One tenant-saw</cell>
+                        <cell>0. 05. 00</cell>
+                     </row>
+                     <row>
+                        <cell>One Whip-saw set and filed, with Box, Files, and Wrest</cell>
+                        <cell>0. 10. 00</cell>
+                     </row>
+                     <row>
+                        <cell>Two Hammers</cell>
+                        <cell>0. 02. 00</cell>
+                     </row>
+                     <row>
+                        <cell>Three Shovells</cell>
+                        <cell>0. 04. 06</cell>
+                     </row>
+                     <row>
+                        <cell>Three Spades</cell>
+                        <cell>0. 04. 06</cell>
+                     </row>
+                     <row>
+                        <cell>Two Angers</cell>
+                        <cell>0. 01. 02</cell>
+                     </row>
+                     <row>
+                        <cell>Six Chizells</cell>
+                        <cell>0. 03. 00</cell>
+                     </row>
+                     <row>
+                        <cell>Two Piercers stocked</cell>
+                        <cell>0. 00. 08</cell>
+                     </row>
+                     <row>
+                        <cell>Three Gimblets</cell>
+                        <cell>0. 00. 06</cell>
+                     </row>
+                     <row>
+                        <cell>Two Hatchets</cell>
+                        <cell>0. 03. 06</cell>
+                     </row>
+                     <row>
+                        <cell>Two Frowes to cleave Pales</cell>
+                        <cell>0, 03. 00</cell>
+                     </row>
+                     <row>
+                        <cell>Four Hand-bills</cell>
+                        <cell>0. 06. 08</cell>
+                     </row>
+                     <pb n="20" facs="tcp:205402:11"/>
+                     <row>
+                        <cell>Two Pick-axes</cell>
+                        <cell>0. 03. 00</cell>
+                     </row>
+                     <row>
+                        <cell>One Iron Crow</cell>
+                        <cell>0. 02. 00</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>3. 18. 08</cell>
+                     </row>
+                     <row>
+                        <cell>Whereof one fift part for one man is</cell>
+                        <cell>0. 15. 09</cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>AN ESTIMATE OF THE WHOLE CHARGE OF</hi> transporting one Servant, providing him with all necessaries.</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell> </cell>
+                        <cell role="label">L. S. D.</cell>
+                     </row>
+                     <row>
+                        <cell>In Victualls</cell>
+                        <cell>01. 10. 00</cell>
+                     </row>
+                     <row>
+                        <cell>In Apparrell and Bedding</cell>
+                        <cell>03. 00. 00</cell>
+                     </row>
+                     <row>
+                        <cell>In Armes</cell>
+                        <cell>02. 00. 00</cell>
+                     </row>
+                     <row>
+                        <cell>In household Implements</cell>
+                        <cell>00. 12. 00</cell>
+                     </row>
+                     <row>
+                        <cell>In Tooles</cell>
+                        <cell>01. 00. 00</cell>
+                     </row>
+                     <row>
+                        <cell>In Starch and Castle-sope</cell>
+                        <cell>00. 06. 00</cell>
+                     </row>
+                     <row>
+                        <cell>A Cask or Chest to put his goods in</cell>
+                        <cell>00. 05. 00</cell>
+                     </row>
+                     <row>
+                        <cell>Fraight for his goods at the rate of a Hogshead</cell>
+                        <cell>01. 00. 00</cell>
+                     </row>
+                     <row>
+                        <cell>For his Victualls, and Passage, and other ac<g ref="char:EOLhyphen"/>commodation at Sea</cell>
+                        <cell>05. 10. 00</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell role="total">15. 03. 00</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>Wheras we who have had experience of the transpor<g ref="char:EOLhyphen"/>ting of servants, doe find that the rules before specified are to low, we have therefore alte<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed this last Estimate, and have there exprest what the least Charge will be to those who either transport themselves or Servants.</p>
+               <p>The Gun-powder and Shot heerin specified, are to be kept only for service against an Enemy: and therfore for fowling powder and shot every man is left to his owne liberty, but will prove very necessary fot comfortable
+<pb n="21" facs="tcp:205402:11"/> subsistence.</p>
+            </div>
+            <div type="note">
+               <head>A NOTE FOR THE ADƲENTVRERS MEMORY of such things as he may (if he please) carry with him either for his owne better accomm<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>da<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ion (on s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ip-board, or for some time af<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er his ari<g ref="char:EOLhyphen"/>vall on Land) or f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r trade accor<g ref="char:EOLhyphen"/>ding to his ability. <hi>PROVISION FOR SHIP-BOARD.</hi>
+               </head>
+               <p>Fine Wheat-flower, close and well packed, to make puddings, &amp;c. Claret wine burnt, Canary Sack, Con<g ref="char:EOLhyphen"/>seves, Ma<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>malades, Suckets and Spices, Sallet-oyle, prunes to slew, live Poultry, Rice, Butter, Holland cheese or old Cheshire, Gammons of Bacon, Porke, dri<g ref="char:EOLhyphen"/>ed Neates-tongues, Bie<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e packed up in viniger, some Wea<g ref="char:EOLhyphen"/>ther-sheep, meates baked in earthen pots, Leggs of Mutton minc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d and stewed, and close packed up in tri<g ref="char:EOLhyphen"/>ed sewet or butter, in earthen pots, juice of Lemmons &amp;c.</p>
+            </div>
+            <div type="part">
+               <head>Commodities for a mans owne use, or to trade with.</head>
+               <p>Canvas of divers sorts and prices, from 10. d. to 2 s. <hi>per</hi> Ell, some Vitry Canvas for Sailes, Lockrams of all sorts, Dowlas, Hollands of divers sorts from 2 shillings to 8 shillings, C<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mbrickes, Lawnes, Scottish cloath, whited Roans, coloured Callicoes, tu fted Holland,
+<pb n="22" facs="tcp:205402:12"/> browne and white Fugeratoes, Dimit<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es, Fustians, white and coloured flaxen cloath of six quarters broad for table cloathes, flaxen cloath for Napkins, Pouldavis and Croc<g ref="char:EOLhyphen"/>kers for packing cloath: All sorts of coloured Threed, browne and white Threed of all sorts, from three shil<g ref="char:EOLhyphen"/>lings to twelve shillings <hi>per</hi> pound, Needles and Pins of all sorts, knitting need<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es for Stockings and Gloves, Cruell and Muckado ends, Worsted: Silke, Thread and Haire Buttons: Womens Bodies, Wheeles to spinne withall, Cards to card Cotton-wooll, packing Needles, Iron Locks of all sorts, Hinges, Sawes, Bolts, Hatchets, and some quantityes of all sorts of Iron Toolls before mentioned, Nailes of all sorts, Firkins of Butter, old Cheeses, Honey, Castle-sope, Candles of Tallow and Wax, Combs, Iron wedges of all sorts, small Frowes to cleave Lathes, Coopers and Carpenters Adzes, Adze to make a trough or Cannow, Plainers to joyne Boards together, and of divers sorts, Masons stone, Axes and Hammers, Lathing-hammers, Pewter of all sorts for a mans owne use, Chopping knives, Cleavers, all sorts of houshold Implements of Brasse, Copper and Tinne, especially Pannes of Copper covered to stew victualls, and Tinne Pudding pannes Limbecks to still, a great Iron Screw, Iron Crowes, Gimblets, Piercers, Thred and Silke Points, Leather Jacks to drinke in, Fowling Peeces, whereof one or two five or s x foot long: a good Spaniell, a Mastiffe dog, small Wedges to fasten the hefts of Axes and Hatchets, to keepe the heads on: all sorts of Seedes, but especially Hemp-seed and Flax-seed, and the best sorts of Pease, and kernells and stones of all sorts of Fruits.</p>
+            </div>
+            <div type="part">
+               <pb n="23" facs="tcp:205402:12"/>
+               <head>PROVISION <hi>for</hi> FISHING</head>
+               <p>Chaine-hookes, Shore-hookes, Porge-hookes, Breame-hookes, Mackarell-hookes, Turtling-irons, Hoopes and Sockets for Turtling staves, Seal-lines, Shoar lines, Porge-lines, B<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eame-lines; some 30 fathome of rope to fasten the fishing-boat at Anchor Lances heads for hunting Peccado's, and wild Hogs.</p>
+               <p>Ioyners, Ca<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>penters, Shoomakers Smiths, Weavers, and handy-crafts men shall doe well (if able) to carry all such Tooles and Instruments belonging to their Trade, as are not very cumbersome; but the biggest pei<g ref="char:EOLhyphen"/>ces of Timber belonging to a Weavers Loome, and the like things of big bulke, may be left behind to save Charges.</p>
+            </div>
+            <div type="part">
+               <head>SOME THINGS TO BE TAKEN NOTICE OF.</head>
+               <p>The fraight or carriage by Sea of goods is after the rate of 3 <hi>li. per</hi> Tonne: All manner of commodities that may be eate<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> by Rats or Mice, must be packed up close in Chests, Cases, Hogsheads, Pipes or the like: to preserve them from that Vermine aboard of the Ships.</p>
+               <p>Seedes carried over to be sowne, must not be placed in the Ships hold, lest they be spoyled by the <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>at that i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> there, but must be placed betweene the two Dockes or some other convenient place.</p>
+               <pb n="24" facs="tcp:205402:13"/>
+               <p>No Leather cloathes must be carried over, for the Sun and the Rain would rot and spoile them; Leather poynts al<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o are not so good as those made of Threed. Leather gloves likewise will spoile there, but threed gloves are of good service, as for shoos and bootes they are of good service: Linnen and Threed stockings will be of farre better wearing there then Woollen ones. Those that are able shall doe well to carry all Fire<g ref="char:EOLhyphen"/>lock Muskets, or as ma<g ref="char:EOLhyphen"/>ny of them as they can.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:205402:13"/>
+         </div>
+      </body>
+   </text>
+</TEI>
